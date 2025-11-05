@@ -1,0 +1,553 @@
+[
+    {
+        "id": "10",
+        "file_path": [
+            "Identity/Id photo_1.jpeg"
+        ],
+        "question": "I’m preparing my Japanese visa application and need to find a photo that meets the official visa requirements. Could you help me locate the file?",
+        "answer": "The photo that meets the Japanese visa requirements is stored in Identity/Id photo_1.jpeg."
+    },
+    {
+        "id": "173",
+        "file_path": [
+            "Guidebook/watch_d.pdf"
+        ],
+        "question": "Can I use my watch to remotely control my phone for taking photos or playing music?",
+        "answer": "Yes, absolutely. According to the watch manual, as long as the watch is connected to your phone, you can do the following:\n1. Remote shutter: Open the “Remote Camera” app from the watch’s app list, and your phone’s camera will launch automatically. You can then tap the shutter icon on your watch screen to take a photo.\n2. Music control: When your phone is playing music, open the “Music” app on the watch to pause, play, or skip to the previous/next track directly from the watch."
+    },
+    {
+        "id": "158",
+        "file_path": [
+            "Personal Form/NTU Auditorium application form .pdf"
+        ],
+        "question": "Please find the proof of my activity as a student union member.",
+        "answer": "The application form I submitted in my capacity as a member of the Nanyang Technological University Student Union to book the Nanyang Auditorium for the \"2025 Freshmen Welcome Party\" can serve as proof of my involvement in organizing activities. The document is stored in Personal Form/NTU Auditorium application form .pdf."
+    },
+    {
+        "id": "215",
+        "file_path": [
+            "Paper/Thesis Draft.docx",
+            "Paper/Final_Submitted_How China-Africa Relations Have Developed.pdf",
+            "Paper/China-Africa Relations_ From Solidarity to Strategy.pptx"
+        ],
+        "question": "In my thesis materials, where did I bring up China’s peacekeeping in Mali?",
+        "answer": "References to China's deployment of combat troops to Mali can be found across your presentation, final thesis, and draft. In the presentation China-Africa Relations_ From Solidarity to Strategy.pptx, slide 23 titled \"UN Peacekeeping: First Combat Troops to Mali\" explicitly states, \"Deployment to Mali – In 2013, China deployed combat troops to Mali for the first time…\" In the final thesis Final_Submitted_How China-Africa Relations Have Developed.pdf, page 44 under the section \"UN Peacekeeping Operations\" records, \"In June 2013, China agreed to commit 395 peacekeeping troops to Mali. The most notable aspect of this decision was that combat troops would be sent as part of the contingent, marking the first time China has sent combat troops on a peacekeeping mission. Similarly, in the draft Thesis Draft.docx, Chapter 4 \"Security and Diplomatic Engagement\", section 4.2 \"China's Evolving Role in UN Peacekeeping in Africa\" notes, \"A major milestone was reached in June 2013, when China agreed to commit combat troops to a peacekeeping mission for the first time, as part of the UN contingent in Mali.\""
+    },
+    {
+        "id": "172",
+        "file_path": [
+            "Guidebook/nova_y70.pdf"
+        ],
+        "question": "What is the function of \"Master AI\"?",
+        "answer": "Master AI (AI Photography) is a pre-installed camera feature that can intelligently recognize objects and scenes (such as food, beaches, or blue skies) and automatically optimize color and brightness settings to help you take better photos."
+    },
+    {
+        "id": "39",
+        "file_path": [
+            "Daily Life/pexels-tr-ng-nguy-n-thanh-2150411289-33409067.jpg",
+            "Daily Life/pexels-tr-ng-nguy-n-thanh-2150411289-33409066.jpg",
+            "Daily Life/pexels-tr-ng-nguy-n-thanh-2150411289-33409064.jpg",
+            "Daily Life/pexels-tr-ng-nguy-n-thanh-2150411289-33409063.jpg"
+        ],
+        "question": "I’d like to make a vlog about my part-time job at a coffee shop. Could you locate all the photos of me working there?",
+        "answer": "I found a total of four photos. They are respectively stored in Daily Life/pexels-tr-ng-nguy-n-thanh-2150411289-33409067.jpg, Daily Life/pexels-tr-ng-nguy-n-thanh-2150411289-33409066.jpg, Daily Life/pexels-tr-ng-nguy-n-thanh-2150411289-33409064.jpg, Daily Life/pexels-tr-ng-nguy-n-thanh-2150411289-33409063.jpg"
+    },
+    {
+        "id": "179",
+        "file_path": [
+            "Guidebook/User_Manual_1500S_Classic_EN.pdf"
+        ],
+        "question": "Which color nozzle should be used with boiled milk?",
+        "answer": "According to the table in User_Manual_1500S_Classic_EN.pdf, page 19, you should use the caramel-colored milk nozzle."
+    },
+    {
+        "id": "176",
+        "file_path": [
+            "Guidebook/bdf54dxa.pdf"
+        ],
+        "question": "How many place settings can my dishwasher handle?",
+        "answer": "It can wash up to 15 place settings."
+    },
+    {
+        "id": "186",
+        "file_path": [
+            "Book/IslandOfBali.pdf"
+        ],
+        "question": "I remember seeing an illustration in a book about a kidnapping scene. What custom does it describe?",
+        "answer": "This illustration appears in Island of Bali (IslandOfBali.pdf), page 173. It is a large black-and-white drawing with the caption: \"Kidnapping (from a Balinese painting).\" It depicts a traditional Balinese form of marriage known as \"elopement\" or \"ngrorod.\""
+    },
+    {
+        "id": "164",
+        "file_path": [
+            "Identity/VISA Card.png"
+        ],
+        "question": "When does my visa expire?",
+        "answer": "November 2039"
+    },
+    {
+        "id": "62",
+        "file_path": [
+            "Daily Life/image001.png",
+            "Daily Life/image002.png"
+        ],
+        "question": "Which Oliver Wyman opportunity has the earlier deadline: the Summer Internship or the 'From Campus to Consulting' workshop?",
+        "answer": "The 'From Campus to Consulting' workkshop has the earlier deadline, which is September 21. The Summer Internship application deadlinee is November 2."
+    },
+    {
+        "id": "168",
+        "file_path": [
+            "Guidebook/owners-manual-2170416.pdf"
+        ],
+        "question": "How long can I store fresh ground beef in my refrigerator?",
+        "answer": "According to the food storage guide in the manual, ground beef can be stored for about 1 to 2 days in the refrigerator."
+    },
+    {
+        "id": "44",
+        "file_path": [
+            "Daily Life/cat3.jpeg",
+            "Daily Life/cat2.jpeg",
+            "Daily Life/cat1.jpeg"
+        ],
+        "question": "Please find all of my photos in which I appear together with the cats.",
+        "answer": "Group photos are saved at: Daily Life/cat3.jpeg, Daily Life/cat2.jpeg, Daily Life/cat1.jpeg"
+    },
+    {
+        "id": "24",
+        "file_path": [
+            "Paper Reference/China's media and public diplomacy approach in Africa- illustrations from South Africa.pdf"
+        ],
+        "question": "Who is the author of the paper I read on China’s media role in Africa’s diplomacy?",
+        "answer": "The paper I read is titled China’s Media and Public Diplomacy Approach in Africa: Illustrations from South Africa, and its author is Yu-Shan Wu."
+    },
+    {
+        "id": "140",
+        "file_path": [
+            "Computer Interest/videommmu_paper.pdf"
+        ],
+        "question": "How is delta knowledge calculated? What is the formula? What does this metric represent?",
+        "answer": "Δ_knowledge = \\frac{Acc_{post} - Acc_{pre}}{100\\% - Acc_{pre}} \\times 100\\% \\quad \\text{where } Acc_{pre} \\text{ and } Acc_{post} \\text{ represent the accuracy before and after watching the video, respectively. The ∆knowledge metric represents the normalized performance improvement in the Adaptation track after watching a video, as defined on page 7.}"
+    },
+    {
+        "id": "182",
+        "file_path": [
+            "Book/TenYearsInJapan.pdf"
+        ],
+        "question": "Who was assassinated in the February 26 Incident, and can you find a photo of him?",
+        "answer": "The person assassinated in the February 26 Incident was Admiral Viscount Saito. I found a photograph of Admiral Viscount Saito with his granddaughter in Ten Years in Japan (TenYearsInJapan.pdf), page 97. The caption reads: \"Admiral Viscount Saito, assassinated in the February 26 Incident, and his granddaughter.\""
+    },
+    {
+        "id": "166",
+        "file_path": [
+            "Guidebook/stereo_headset.pdf"
+        ],
+        "question": "Did my newly purchased headphones come with a data cable?",
+        "answer": "Yes, they did. According to the manual, the package includes:\n1. Wireless Noise Canceling Stereo Headset (1)\n2. USB Type-C® cable (USB-A to USB-C®) (approx. 20 cm / 7.88 in.) (1)\n3. Headphone cable (approx. 1.2 m / 47.25 in.) (1)\n4. Carrying case (1)\n5. Plug adaptor for in-flight use (1)."
+    },
+    {
+        "id": "70",
+        "file_path": [
+            "Scenery/Musée du Louvre_1.jpg",
+            "Scenery/Musée du Louvre_2.jpg"
+        ],
+        "question": "Could you tell me which attraction I went to at both daytime and nighttime?",
+        "answer": "Musée du Louvre"
+    },
+    {
+        "id": "207",
+        "file_path": [
+            "Tennis Beginner Lessons/MDS.pdf"
+        ],
+        "question": "In the Singapore Tennis Open, how much prize money and how many WTA points does the finalist receive?",
+        "answer": "The finalist (runner-up) receives US $21,484 in prize money and 163 WTA points."
+    },
+    {
+        "id": "9",
+        "file_path": [
+            "Identity/CUHK ID front.png",
+            "Identity/CUHK ID back.png",
+            "Identity/NTU ID Front.png",
+            "Identity/NTU ID Back.png"
+        ],
+        "question": "Check the current storage path of my student ID cards.",
+        "answer": "The Front side of the undergraduate student ID card is stored in Identity/CUHK ID front.png, and the Back side is stored in Identity/CUHK ID back.png. The Front side of the master's student ID card is stored in Identity/NTU ID Front.png, and the Back side is stored in Identity/NTU ID Back.png."
+    },
+    {
+        "id": "2",
+        "file_path": [
+            "Computer Interest/llava_onevision.pdf",
+            "Computer Interest/llava_onevision.pdf"
+        ],
+        "question": "How many papers co-authored by Liu Ziwei and Li Bo have I downloaded?",
+        "answer": "2 papers. \"Video-MMMU: Evaluating Knowledge Acquisition from Multi-Discipline Professional Videos\" and \"LLaVA-OneVision: Easy Visual Task Transfer\""
+    },
+    {
+        "id": "34",
+        "file_path": [
+            "Life Photo/pexels-tr-ngue-n-thanh-2150411289-33577701.jpg",
+            "Life photo/ pexels-tr-ng-ngue-n-thanh-2150411289-33397603.jpg"
+        ],
+        "question": "Among the photos from my March 2023 trip, which photo was taken last and which was modified last, including the exact time and file name?",
+        "answer": "The last photo taken is Life Photo/pexels-tr-ngue-n-thanh-2150411289-33577701.jpg, taken at 10:42 am on March 13, 2023. The last modified photo is Life photo/ pexels-tr-ng-ngue-n-thanh-2150411289-33397603.jpg. The modification time is 5:25 p.m. on March 14, 2023."
+    },
+    {
+        "id": "220",
+        "file_path": [
+            "Daily Life/WechatIMG10314.jpg",
+            "Daily Life/WechatIMG730.jpg",
+            "Daily Life/WechatIMG4334.jpg"
+        ],
+        "question": "Which photos were taken in violation of the rules?",
+        "answer": "The following photos were identified as taken in violation of the rules: [\"Daily Life/WechatIMG10314.jpg\", \"Daily Life/WechatIMG730.jpg\", \"Daily Life/WechatIMG4334.jpg\"]."
+    },
+    {
+        "id": "29",
+        "file_path": [
+            "Paper Reference/China-Africa culture differences in business relations.pdf",
+            "Paper Reference/China, Africa and South Africa advancing south-south cooperation.pdf"
+        ],
+        "question": "Among the documents I have, which ones refer to iron ore as a resource sought by Chinese enterprises in Africa?",
+        "answer": "The documents that refer to iron ore as a resource sought by Chinese enterprises in Africa are \"China-Africa culture differences in business relations\" and \"China, Africa and South Africa advancing south-south cooperation\"."
+    },
+    {
+        "id": "56",
+        "file_path": [
+            "Daily Life/Food/WechatIMG352.jpg",
+            "Daily Life/Food/WechatIMG1290.jpg",
+            "Daily Life/Food/WechatIMG3008.jpg",
+            "Daily Life/Food/WechatIMG8095.jpg"
+        ],
+        "question": "How many times have I eaten pizza?",
+        "answer": "I have eaten pizza 4 times, as evidenced by the following photos: Daily Life/Food/WechatIMG352.jpg, Daily Life/Food/WechatIMG1290.jpg, Daily Life/Food/WechatIMG3008.jpg, and Daily Life/Food/WechatIMG8095.jpg."
+    },
+    {
+        "id": "68",
+        "file_path": [
+            "Scenery/Pantheon_1.jpeg",
+            "Scenery/Pantheon_2.jpeg",
+            "Scenery/Pantheon_3.jpeg"
+        ],
+        "question": "Among the landmarks I have visited, which one has the longest history?",
+        "answer": "The Pantheon in Rome is the landmark with the longest history among those you have visited. It was originally completed around 126 AD."
+    },
+    {
+        "id": "152",
+        "file_path": [
+            "Computer Interest/MMMU_website.pdf"
+        ],
+        "question": "How many percentage of questions are in the Tech&Engineering discipline in the MMMU benchmark?",
+        "answer": "The Tech & Engineering discipline accounts for 26% of the questions in the MMMU benchmark."
+    },
+    {
+        "id": "53",
+        "file_path": [
+            "Daily Life/image003.png"
+        ],
+        "question": "What is the cost to attend the Theatre Jazz Dance Workshop?",
+        "answer": "The workshop is free of charge, but it requires a $100 deposit which is refundable if you have at least 80% attendance."
+    },
+    {
+        "id": "46",
+        "file_path": [
+            "Life photo/pexels-tr-ng-nguy-n-thanh-2150411289-33577699.jpg",
+            "Life photo/pexels-tr-ng-nguy-n-thanh-2150411289-33577700.jpg",
+            "Life photo/pexels-tr-ng-nguy-n-thanh-2150411289-33577712.jpg",
+            "Life photo/pexels-tr-ng-nguy-n-thanh-2150411289-33577714.jpg"
+        ],
+        "question": "My only canvas bag printed with \"Chupa Chups\" is missing. Could you check if my bag shows up in any of my travel photos?",
+        "answer": "You did carry the aforementioned canvas bag during your trip in March 2022. You appeared with it in the following photos: Life photo/pexels-tr-ng-nguy-n-thanh-2150411289-33577699.jpg, Life photo/pexels-tr-ng-nguy-n-thanh-2150411289-33577700.jpg, Life photo/pexels-tr-ng-nguy-n-thanh-2150411289-33577712.jpg, Life photo/pexels-tr-ng-nguy-n-thanh-2150411289-33577714.jpg."
+    },
+    {
+        "id": "52",
+        "file_path": [
+            "Daily Life/WechatIMG141.jpg"
+        ],
+        "question": "Please tell me the business hours of The Yunnan Corner.",
+        "answer": "The opening hours of The Yunnan Corner are from 5 p.m. to 10 p.m. from Monday to Saturday. The Yunnan Corner is closed on Sundays and public holidays."
+    },
+    {
+        "id": "149",
+        "file_path": [
+            "Computer Interest/0_overview.pdf"
+        ],
+        "question": "What are the course hours of SC4001?",
+        "answer": "Lectures: Friday from 12:30 pm to 2:20 pm (at LT2A). Tutorials: Wednesday from 5:30 pm to 6:20 pm (at LT2A). Tutorials start from the 3rd week (28 Aug). Note that the lecture in Week 6 (20 Sep) is at LT1."
+    },
+    {
+        "id": "54",
+        "file_path": [
+            "Daily Life/WechatIMG140.jpg"
+        ],
+        "question": "Tell me the opening time of canteen1.",
+        "answer": "Canteen1 opens at 8 a.m. every day."
+    },
+    {
+        "id": "189",
+        "file_path": [
+            "policy/circular-scdf-service-transformation-update.pdf"
+        ],
+        "question": "Which number should I call for fire-related enquiries?",
+        "answer": "1800 280 0000. According to policy/circular-scdf-service-transformation-update.pdf, page 1, the SCDF General Enquiry and Fire Hazard Reporting hotlines have been merged, and the public can now reach the SCDF hotline at 1800 280 0000."
+    },
+    {
+        "id": "213",
+        "file_path": [
+            "Receipts/receipt1.png",
+            "Receipts/receipt6.png",
+            "Receipts/receipt9.png"
+        ],
+        "question": "Has FairPrice increased its prices?",
+        "answer": "Based on your three receipts for the same product from 2023 to 2025 (Receipts/receipt1.png, Receipts/receipt6.png, Receipts/receipt9.png), it can be confirmed that FairPrice did not increase prices between 2023 and 2024, but did raise prices between 2024 and 2025."
+    },
+    {
+        "id": "7",
+        "file_path": [
+            "Identity/Passport.png"
+        ],
+        "question": "Could you please help me find where my passport is?",
+        "answer": "Your Passport is stored in Identity/Passport.png"
+    },
+    {
+        "id": "156",
+        "file_path": [
+            "Personal Form/Rental application form 2.pdf"
+        ],
+        "question": "What is my father's contact information?",
+        "answer": "In the reference section of the Personal Form/Rental application form 2.pdf, your father’s contact details are listed as follows: Mr. Bei Duofen, phone number: +65 82345678, email address: duofenbei@email.com."
+    },
+    {
+        "id": "26",
+        "file_path": [
+            "Paper Reference/Connected_but_not_alike_Cross_Cultural_C.pdf"
+        ],
+        "question": "Could you tell me the Individualism score for China from Hofstede’s cultural dimensions data?",
+        "answer": "The Individualism score for China is 20."
+    },
+    {
+        "id": "64",
+        "file_path": [
+            "Daily Life/image001.jpg"
+        ],
+        "question": "Please tell me which of the events hosted by CUHK takes place during the lunch hour.",
+        "answer": "The Library 101 Tour takes place during the lunch hour, from 12:30 PM to 1:15 PM."
+    },
+    {
+        "id": "219",
+        "file_path": [
+            "Textbook/BOOK 3.pdf",
+            "Textbook/BOOK 4.pdf",
+            "Textbook/BOOK 5.pdf",
+            "Textbook/BOOK 6.pdf"
+        ],
+        "question": "Find all the problems that require calculating the area of a specific region.",
+        "answer": "Problem 101 in book3; problems 72, 75, 77, 78, and 101 in book4; problems 36, 40, 43, 44, 55, and 60 in book5; and problems 24, 32, 39, 49, and 50 in book6 meet the requirement."
+    },
+    {
+        "id": "57",
+        "file_path": [
+            "Daily Life/WechatIMG4330.jpg"
+        ],
+        "question": "Could you tell me where the design of my graduation bouquet is saved?",
+        "answer": "It’s saved as Daily Life/WechatIMG4330.jpg"
+    },
+    {
+        "id": "193",
+        "file_path": [
+            "policy/CODE_OF_PRACTICE_FOR_FIRE_PRECAUTIONS_IN_BUILDINGS_2023.pdf",
+            "Personal Form/Rental application form 2.pdf"
+        ],
+        "question": "What type of fire alarm system does my rented apartment require?",
+        "answer": "Your rented apartment requires both automatic and manual fire alarm systems. According to the Code of Practice for Fire Precautions in Buildings 2023 (policy/CODE_OF_PRACTICE_FOR_FIRE_PRECAUTIONS_IN_BUILDINGS_2023.pdf), Amendment History – Chapter 6, page 204, Table 6.3A (Provision of Fire Alarms), under the row “PG III to VIII (With stay-in facilities)” and the column “Building of more than one storey”, the requirement is listed as “Automatic + manual.” Since your rental application (Personal Form/Rental application form 2.pdf) shows that your unit is on the 11th floor, both types of fire alarm systems are mandatory."
+    },
+    {
+        "id": "160",
+        "file_path": [
+            "Resume-Bei Weiwei.pdf",
+            "Personal Form/internship-application-form_fillable.pdf",
+            "ntu-academic-calendar-ay2025-26-(semester)f9349663-021d-4e97-a03c-df8ba49a08ec.pdf",
+            "Personal Form/Short Leave Application.pdf"
+        ],
+        "question": "My internship at Grant Thornton has officially ended, but I still have unfinished tasks. Until when is the latest I can continue working at the company?",
+        "answer": "You can work until August 11, 2025. According to your Grant Thornton Internship Application Form (Personal Form/internship-application-form_fillable.pdf), your official internship period was from January 6, 2025, to July 1, 2025. Based on the NTU academic calendar (ntu-academic-calendar-ay2025-26-(semester)f9349663-021d-4e97-a03c-df8ba49a08ec.pdf), August 11, 2025, is the official start of teaching. In addition, your Personal Form/Short Leave Application.pdf only covers leave until July 1, 2025. Therefore, the latest you may continue working at the company is August 11, 2025, by which time you must return to NTU for the start of classes."
+    },
+    {
+        "id": "161",
+        "file_path": [
+            "Personal Form/internship-application-form_fillable.pdf",
+            "Bei_Weiwei/Personal Form/Short Leave Application.pdf"
+        ],
+        "question": "Will the time off I applied for be enough for the internship?",
+        "answer": "Yes, it does. According to your Grant Thornton Internship Application Form (Personal Form/internship-application-form_fillable.pdf), your official internship period is from January 6, 2025, to July 1, 2025. The leave of absence you applied for runs from December 1, 2024, to July 1, 2025, which fully covers the entire internship period."
+    },
+    {
+        "id": "49",
+        "file_path": [
+            "Film/Harry Potter and the Philosopher's Stone.mkv"
+        ],
+        "question": "My storage is nearly full. Could you identify the largest file in my system and provide its full name and exact size?",
+        "answer": "The full file name is Film/Harry Potter and the Philosopher's Stone.mkv, and the specific size is 8.53GB."
+    },
+    {
+        "id": "61",
+        "file_path": [
+            "Daily Life/WechatIMG10205.jpg"
+        ],
+        "question": "How many different size options are available for my favorite perfume?",
+        "answer": "There are four different size options available (15 ml, 50 ml, 100 ml, and 500 ml)."
+    },
+    {
+        "id": "51",
+        "file_path": [
+            "Paper Reference/Unused_Paper/China's media and public diplomacy approach in Africa- illustrations from South Africa.pdf",
+            "Paper Reference/Unused_Paper/China's expanding influence in Africa.pdf",
+            "Paper Reference/Unused_Paper/China’s soft power projection  through the Chinese media-  assessing the implications of  Chinese media on Africans’  perception of China’s  national image.pdf"
+        ],
+        "question": "Please find every file with ‘diplomacy’, ‘influence’, or ‘soft power’ in the title, rename them with the prefix ‘[Diplomatic Research]-’, and show me the complete modified list.",
+        "answer": "[Diplomatic Research]-China's media and public diplomacy approach in Africa- illustrations from South Africa.pdf, [Diplomatic Research]-China's expanding influence in Africa.pdf, [Diplomatic Research]-China’s soft power projection  through the Chinese media-  assessing the implications of  Chinese media on Africans’  perception of China’s  national image.pdf"
+    },
+    {
+        "id": "11",
+        "file_path": [
+            "Identity/ID Card 1.png",
+            "Identity/ID Card 2.png",
+            "Identity/NTU ID Front.png"
+        ],
+        "question": "Please find the saved photo of my ID card with wrong details and specify the exact error message on it.",
+        "answer": "This incorrect photo of my ID card is stored in Identity/ID Card 1.png. The error is the misspelling of the name as 'BEI WIEWEI' instead of the correct 'BEI WEIWEI'."
+    },
+    {
+        "id": "45",
+        "file_path": [
+            "Cat-Vlog/images/pexels-david-bartus-43782-1510543.jpg"
+        ],
+        "question": "Could you help me locate a photo of a little black cat?",
+        "answer": "You can find the photo of the little black cat at: Cat-Vlog/images/pexels-david-bartus-43782-1510543.jpg."
+    },
+    {
+        "id": "59",
+        "file_path": [
+            "Daily Life/WechatIMG10313.jpg",
+            "Daily Life/WechatIMG10205.jpg"
+        ],
+        "question": "Please identify the brand name of my favorite perfume.",
+        "answer": "Le Labo"
+    },
+    {
+        "id": "17",
+        "file_path": [
+            "IELTS/8.5_3.docx"
+        ],
+        "question": "Find essay about robots from late October.",
+        "answer": "Found it. You wrote an essay about robots on October 23, 2023. The complete title is: Some people think that robots are important for humans' future development. Other think that robot have negative effects on society. Discuss both views and give your opinion. The question type is: Discuss both views. The score is 8.5 points. "
+    },
+    {
+        "id": "191",
+        "file_path": [
+            "policy/NTU Annual Report 2024.pdf"
+        ],
+        "question": "What is the employment rate at NTU?",
+        "answer": " According to policy/NTU Annual Report 2024.pdf, the 2023 employment rate was 90%. This means that 9 out of every 10 graduates from the Class of 2023 found a job within four months of graduation."
+    },
+    {
+        "id": "190",
+        "file_path": [
+            "policy/fire-safety-(building-and-pipeline-fire-safety)-regulation-4(4).pdf"
+        ],
+        "question": "What is the maximum size of a storeroom with partitions that does not require approval?",
+        "answer": "According to MINOR ALTERATIONS OR ADDITIONS NOT REQUIRING APPROVAL OF PLANS (policy/fire-safety-(building-and-pipeline-fire-safety)-regulation-4(4).pdf, page 1, 1.(a)), partition works arising from change of use to ancillary usage as a pantry, toilet, or storeroom of not more than 20 square metres do not require approval. Therefore, the storeroom must not exceed 20 square metres in size."
+    },
+    {
+        "id": "27",
+        "file_path": [
+            "Paper Reference/China’s soft power projection  through the Chinese media-  assessing the implications of  Chinese media on Africans’  perception of China’s  national image.pdf"
+        ],
+        "question": "In the study on China’s media influence in Africa, which city’s residents were chosen as the case study?",
+        "answer": "The study on China’s media influence in Africa chose Nairobi as the case study."
+    },
+    {
+        "id": "208",
+        "file_path": [
+            "Tennis Beginner Lessons/introduction_to_tennis_for_adults.pdf",
+            "Tennis Beginner Lessons/2025-rules-of-tennis-english.pdf"
+        ],
+        "question": "My left foot touched the baseline before hitting the ball. What is this action called, and what happens in an official match?",
+        "answer": "This action is called a Foot Fault. In an official match, it is ruled as a Service Fault. According to Introduction to Tennis for Adults (introduction_to_tennis_for_adults.pdf), a server’s foot must not touch or cross the baseline before striking the ball. The 2025 ITF Rules of Tennis (2025-rules-of-tennis-english.pdf) further clarify this: Rule 18 defines a foot touching the baseline during the service motion as a Foot Fault, and Rule 19(a) specifies that a violation of Rule 18 results in a Service Fault."
+    },
+    {
+        "id": "194",
+        "file_path": [
+            "policy/circular-technical-requirements-for-household-shelters-2023.pdf"
+        ],
+        "question": "When do the new household shelter regulations take effect?",
+        "answer": "According to the Technical Requirements for Household Shelters 2023 (policy/circular-technical-requirements-for-household-shelters-2023.pdf), page 2, paragraph 3, the new regulations took effect on 1 October 2023."
+    },
+    {
+        "id": "28",
+        "file_path": [
+            "Paper Reference/Chinese_Buddhism_in_Africa_The_Entanglem.pdf"
+        ],
+        "question": "In that study on Chinese Buddhism in Africa, which Beijing temple is affiliated with the monasteries in Botswana and Tanzania?",
+        "answer": "The temple is Longquan Monastery located in Beijing."
+    },
+    {
+        "id": "216",
+        "file_path": [
+            "Textbook/BOOK 2.pdf",
+            "Textbook/BOOK 4.pdf"
+        ],
+        "question": "Find the page numbers of problems related to mass.",
+        "answer": "Problems 56, 57, 58, and 59 in book2, and problems 67, 68, 69, and 70 in book4 meet the requirement."
+    },
+    {
+        "id": "195",
+        "file_path": [
+            "policy/Fire_Safety_Act_1993.pdf"
+        ],
+        "question": "Someone in our building keeps mischievously triggering the fire alarm. Is this illegal, and what are the penalties?",
+        "answer": "Yes, this is illegal. According to the Statutes of the Republic of Singapore – Fire Safety Act 1993 (page 38, Section 25.-(1)): “Any person who knowingly gives or causes to be given a false alarm of fire to the Force or to the police shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 months or to both.” Therefore, deliberately raising a false fire alarm is a criminal offence, punishable by a fine of up to SGD 5,000, imprisonment for up to 3 months, or both."
+    },
+    {
+        "id": "206",
+        "file_path": [
+            "Tennis Beginner Lessons/2025_MS_draw.pdf",
+            "Tennis Beginner Lessons/2025-wtt-regulations.pdf"
+        ],
+        "question": " Can Jack Draper earn ATP ranking points from this result?",
+        "answer": "No, he cannot. The US Open draw (2025_MS_draw.pdf) shows that Jack Draper won his first-round match by walkover. At the 2025 US Open, Draper advanced because his opponent withdrew. However, according to the 2025 ITF World Tennis Tour Regulations (2025-wtt-regulations.pdf), a player who advances from the first round by walkover is not awarded ranking points."
+    },
+    {
+        "id": "177",
+        "file_path": [
+            "Guidebook/SAO-StudentSupport_Guidebook-Content.pdf",
+            "Identity/NTU ID Back.png",
+            "Identity/NTU ID Front.png",
+            "Identity/Passport.png"
+        ],
+        "question": "If I am hospitalized due to illness, which insurance plan should I use for claims?",
+        "answer": "You may apply under either the Group Hospitalisation and Surgical Insurance or the Group Personal Accident Insurance, since you are both a Singapore Permanent Resident and a full-time NTU graduate student."
+    },
+    {
+        "id": "171",
+        "file_path": [
+            "Guidebook/Macbook_air.pdf",
+            "Guidebook/nova_y70.pdf"
+        ],
+        "question": "I am trying to transfer files from my Huawei Nova Y70 phone to my MacBook Air, but it doesn’t work. Could you explain why?",
+        "answer": "This is because the two devices do not support direct wireless file transfer without third-party applications. The reasons are as follows:\\n1. According to the HUAWEI nova Y70 User Guide.pdf (pp. 21–24), Huawei's \"Multi-Device Collaboration\" (also called Device+) is designed for use within the Huawei ecosystem (e.g., Huawei phones, tablets, Vision smart screens).\\n2. According to the MacBook Air (2008) User Manual.pdf (pp. 15–16), its built-in wireless sharing functions mainly rely on AirPort (Wi-Fi) to share DVDs/CDs or migrate data between Macs or Windows computers, but it does not support direct collaboration protocols with Android systems."
+    },
+    {
+        "id": "180",
+        "file_path": [
+            "Guidebook/san-francisco-11-contents.pdf"
+        ],
+        "question": "Where is the Ferry Building located?",
+        "answer": "According to san-francisco-11-contents.pdf, page 20 (Map Key p300, Map p301) in the section “THE FINANCIAL DISTRICT (FIDI),” the Ferry Building is located on the eastern edge of the Financial District. It sits along the waterfront boulevard called The Embarcadero, directly at the end of Market Street. The building is next to Pier 1 and Pier 1/2, and it also serves as a terminal for Golden Gate Transit Ferries and the Vallejo Ferry. Nearby, you will also find the California Street Cable Car Turnaround."
+    },
+    {
+        "id": "33",
+        "file_path": [
+            "Daily Life/Food/WechatIMG3019.jpg"
+        ],
+        "question": "Among all the photos of my three daily meals, which photo has the largest file size, and what is that size?",
+        "answer": "The photo with the largest file size is Daily Life/Food/WechatIMG3019.jpg, which is 508KB."
+    }
+]

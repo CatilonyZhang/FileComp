@@ -1,0 +1,350 @@
+[
+    {
+        "id": "1",
+        "file_path": [
+            "Computer Interest/llava_onevision.pdf",
+            "Computer Interest/llava_onevision.pdf"
+        ],
+        "question": "Could you tell me the minimum number of papers co-authored by Liu Ziwei and Li Bo？",
+        "answer": "Based on the provided academic papers and their reference lists, Ziwei Liu and Bo Li have co-authored at least 11 papers. [cite_start]These include: 'Video-MMMU: Evaluating Knowledge Acquisition from Multi-Discipline Professional Videos' [cite: 1][cite_start], 'LLaVA-OneVision: Easy Visual Task Transfer' [cite: 2/15, 12][cite_start], 'Llava-next: What else influences visual instruction tuning beyond data?' [cite: 3][cite_start], 'Llava-next: Stronger llms supercharge multimodal capabilities in the wild' [cite: 4][cite_start], 'Llava-next: A strong zero-shot video understanding model' [cite: 5][cite_start], 'Mmbench: Is your multi-modal model an all-around player?' [cite: 6][cite_start], 'Lmms-eval: Reality check on the evaluation of large multimodal models' [cite: 7/13][cite_start], 'Long context transfer from language to vision' [cite: 8/14][cite_start], 'Funqa: Towards surprising video comprehension' [cite: 9][cite_start], 'Video instruction tuning with synthetic data' [cite: 10][cite_start], and 'Worldqa: Multimodal world knowledge in videos through long-chain reasoning'[cite: 11]."
+    },
+    {
+        "id": "2",
+        "file_path": [
+            "Computer Interest/llava_onevision.pdf",
+            "Computer Interest/llava_onevision.pdf"
+        ],
+        "question": "How many papers co-authored by Liu Ziwei and Li Bo have I downloaded?",
+        "answer": "2 papers. \"Video-MMMU: Evaluating Knowledge Acquisition from Multi-Discipline Professional Videos\" and \"LLaVA-OneVision: Easy Visual Task Transfer\""
+    },
+    {
+        "id": "3",
+        "file_path": [
+            "Identity/Passport.png"
+        ],
+        "question": "What is my passport number?",
+        "answer": "K1234567E"
+    },
+    {
+        "id": "4",
+        "file_path": [
+            "Identity/Passport.png",
+            "Identity/NTU ID Front.png"
+        ],
+        "question": "At what age did I enter the campus of Nanyang Technological University to study?",
+        "answer": "21"
+    },
+    {
+        "id": "5",
+        "file_path": [
+            "Identity/NTU ID Front.png"
+        ],
+        "question": "What is my NTU student ID number?",
+        "answer": "G2207823L"
+    },
+    {
+        "id": "6",
+        "file_path": [
+            "Identity/NTU ID Front.png"
+        ],
+        "question": "After which day can I no longer use my NTU student ID card?",
+        "answer": "2026-07-15"
+    },
+    {
+        "id": "7",
+        "file_path": [
+            "Identity/Passport.png"
+        ],
+        "question": "Could you please help me find where my passport is?",
+        "answer": "Your Passport is stored in Identity/Passport.png"
+    },
+    {
+        "id": "8",
+        "file_path": [
+            "NA"
+        ],
+        "question": "How many papers are co-authored by Xiang Yue and Jingkang Yang?",
+        "answer": "0 paper. They are not co-authors."
+    },
+    {
+        "id": "9",
+        "file_path": [
+            "Identity/CUHK ID front.png",
+            "Identity/CUHK ID back.png",
+            "Identity/NTU ID Front.png",
+            "Identity/NTU ID Back.png"
+        ],
+        "question": "Check the current storage path of my student ID cards.",
+        "answer": "The Front side of the undergraduate student ID card is stored in Identity/CUHK ID front.png, and the Back side is stored in Identity/CUHK ID back.png. The Front side of the master's student ID card is stored in Identity/NTU ID Front.png, and the Back side is stored in Identity/NTU ID Back.png."
+    },
+    {
+        "id": "10",
+        "file_path": [
+            "Identity/Id photo_1.jpeg"
+        ],
+        "question": "I’m preparing my Japanese visa application and need to find a photo that meets the official visa requirements. Could you help me locate the file?",
+        "answer": "The photo that meets the Japanese visa requirements is stored in Identity/Id photo_1.jpeg."
+    },
+    {
+        "id": "11",
+        "file_path": [
+            "Identity/ID Card 1.png",
+            "Identity/ID Card 2.png",
+            "Identity/NTU ID Front.png"
+        ],
+        "question": "Please find the saved photo of my ID card with wrong details and specify the exact error message on it.",
+        "answer": "This incorrect photo of my ID card is stored in Identity/ID Card 1.png. The error is the misspelling of the name as 'BEI WIEWEI' instead of the correct 'BEI WEIWEI'."
+    },
+    {
+        "id": "13",
+        "file_path": [
+            "Identity/ID Card 1.png",
+            "Identity/ID Card 2.png"
+        ],
+        "question": "Please provide my blood type information.",
+        "answer": "Your blood type is AB and you are Rh positive."
+    },
+    {
+        "id": "17",
+        "file_path": [
+            "IELTS/8.5_3.docx"
+        ],
+        "question": "Find essay about robots from late October.",
+        "answer": "Found it. You wrote an essay about robots on October 23, 2023. The complete title is: Some people think that robots are important for humans' future development. Other think that robot have negative effects on society. Discuss both views and give your opinion. The question type is: Discuss both views. The score is 8.5 points. "
+    },
+    {
+        "id": "18",
+        "file_path": [
+            "IELTS/8_4.docx"
+        ],
+        "question": "Show me the top score for my IELTS essays of the advantages and disadvantages type.",
+        "answer": "Your highest band score is 8."
+    },
+    {
+        "id": "22",
+        "file_path": [
+            "IELTS/5_2.docx"
+        ],
+        "question": "On which date did I write the IELTS essay about \"elderly loneliness and lack of exercise\", and what is the file name?",
+        "answer": "You wrote this article on September 3, 2023, and you saved it as IELTS/5_2.docx."
+    },
+    {
+        "id": "23",
+        "file_path": [
+            "Paper Reference/Connected_but_not_alike_Cross_Cultural_C.pdf"
+        ],
+        "question": "Which paper on Chinese-African cultures and relations presents the viewpoint of \"Cross-Cultural Comparison\"?",
+        "answer": "The title of this Paper is \"Connected But Not Alike: Cross-Cultural Comparison of Generation Y in China and Africa\", and the file path is Paper Reference/Connected_but_not_alike_Cross_Cultural_C.pdf"
+    },
+    {
+        "id": "24",
+        "file_path": [
+            "Paper Reference/China's media and public diplomacy approach in Africa- illustrations from South Africa.pdf"
+        ],
+        "question": "Who is the author of the paper I read on China’s media role in Africa’s diplomacy?",
+        "answer": "The paper I read is titled China’s Media and Public Diplomacy Approach in Africa: Illustrations from South Africa, and its author is Yu-Shan Wu."
+    },
+    {
+        "id": "25",
+        "file_path": [
+            "Paper Reference/Chinese_Buddhism_in_Africa_The_Entanglem.pdf"
+        ],
+        "question": "I remember reading something about a Buddhist monastery being established in Botswana, what was it called again?",
+        "answer": "The name of this temple is Bohua Monastery (bohuasi)."
+    },
+    {
+        "id": "26",
+        "file_path": [
+            "Paper Reference/Connected_but_not_alike_Cross_Cultural_C.pdf"
+        ],
+        "question": "Could you tell me the Individualism score for China from Hofstede’s cultural dimensions data?",
+        "answer": "The Individualism score for China is 20."
+    },
+    {
+        "id": "27",
+        "file_path": [
+            "Paper Reference/China’s soft power projection  through the Chinese media-  assessing the implications of  Chinese media on Africans’  perception of China’s  national image.pdf"
+        ],
+        "question": "In the study on China’s media influence in Africa, which city’s residents were chosen as the case study?",
+        "answer": "The study on China’s media influence in Africa chose Nairobi as the case study."
+    },
+    {
+        "id": "28",
+        "file_path": [
+            "Paper Reference/Chinese_Buddhism_in_Africa_The_Entanglem.pdf"
+        ],
+        "question": "In that study on Chinese Buddhism in Africa, which Beijing temple is affiliated with the monasteries in Botswana and Tanzania?",
+        "answer": "The temple is Longquan Monastery located in Beijing."
+    },
+    {
+        "id": "29",
+        "file_path": [
+            "Paper Reference/China-Africa culture differences in business relations.pdf",
+            "Paper Reference/China, Africa and South Africa advancing south-south cooperation.pdf"
+        ],
+        "question": "Among the documents I have, which ones refer to iron ore as a resource sought by Chinese enterprises in Africa?",
+        "answer": "The documents that refer to iron ore as a resource sought by Chinese enterprises in Africa are \"China-Africa culture differences in business relations\" and \"China, Africa and South Africa advancing south-south cooperation\"."
+    },
+    {
+        "id": "30",
+        "file_path": [
+            "Paper Reference/China-Africa culture differences in business relations.pdf"
+        ],
+        "question": "Which Chinese government policy encouraged enterprises to expand into Africa?",
+        "answer": "The policy implemented by the Chinese government that has encouraged Chinese enterprises to go to Africa is the 'going global policy'. This was mentioned in the article \"China-Africa culture differences in business relations\"."
+    },
+    {
+        "id": "31",
+        "file_path": [
+            "Paper Reference/China, Africa and South Africa advancing south-south cooperation.pdf"
+        ],
+        "question": "What is the official principle of economic and technological cooperation with African countries as proposed by Chinese leaders",
+        "answer": "The official principle of economic and technological cooperation with African countries as proposed by Chinese leaders is \"equality and mutual benefit\""
+    },
+    {
+        "id": "32",
+        "file_path": [
+            "Paper Reference/China-Africa culture differences in business relations.pdf"
+        ],
+        "question": "What is the specific cultural practice that Chinese businessmen commonly rely on when establishing business relations?",
+        "answer": "The specific cultural practice that Chinese businessmen commonly rely on when establishing business relations is \"guanxi (关系)\"."
+    },
+    {
+        "id": "33",
+        "file_path": [
+            "Daily Life/Food/WechatIMG3019.jpg"
+        ],
+        "question": "Among all the photos of my three daily meals, which photo has the largest file size, and what is that size?",
+        "answer": "The photo with the largest file size is Daily Life/Food/WechatIMG3019.jpg, which is 508KB."
+    },
+    {
+        "id": "34",
+        "file_path": [
+            "Life Photo/pexels-tr-ngue-n-thanh-2150411289-33577701.jpg",
+            "Life photo/ pexels-tr-ng-ngue-n-thanh-2150411289-33397603.jpg"
+        ],
+        "question": "Among the photos from my March 2023 trip, which photo was taken last and which was modified last, including the exact time and file name?",
+        "answer": "The last photo taken is Life Photo/pexels-tr-ngue-n-thanh-2150411289-33577701.jpg, taken at 10:42 am on March 13, 2023. The last modified photo is Life photo/ pexels-tr-ng-ngue-n-thanh-2150411289-33397603.jpg. The modification time is 5:25 p.m. on March 14, 2023."
+    },
+    {
+        "id": "36",
+        "file_path": [
+            "Life photo/pexels-tr-ng-nguy-n-thanh-2150411289-33577708.jpg",
+            "Life photo/pexels-tr-ng-nguy-n-thanh-2150411289-33577714.jpg"
+        ],
+        "question": "I’d like to revisit the cafe where I checked in during my March 2023 trip. Could you provide me with its business hours?",
+        "answer": "Based on the two photos I found: Life photo/pexels-tr-ng-nguy-n-thanh-2150411289-33577708.jpg, Life photo/pexels-tr-ng-nguy-n-thanh-2150411289-33577714.jpg, the cafe's business hours are from 9 AM to 10 PM every day."
+    },
+    {
+        "id": "37",
+        "file_path": [
+            "Life photo/pexels-tr-ng-nguy-n-thanh-2150411289-33409065.jpg",
+            "Life photo/pexels-tr-ng-nguy-n-thanh-2150411289-33409073.jpg",
+            "Life photo/pexels-tr-ng-nguy-n-thanh-2150411289-33409077.jpg",
+            "Life photo/pexels-tr-ng-nguy-n-thanh-2150411289-33409081.jpg"
+        ],
+        "question": "Could you tell me the brand of the black printed T-shirt I wore in one of my travel pictures?",
+        "answer": "The brand of the black printed T-shirt I wore in one of my travel pictures is \"Chupa Chups\"."
+    },
+    {
+        "id": "38",
+        "file_path": [
+            "Life photo/pexels-tr-ng-nguy-n-thanh-2150411289-33397600.jpg"
+        ],
+        "question": "I remember I took a photo with a very large green leaf covering half of my face. Could you help me find it?",
+        "answer": "This photo exists: Life photo/pexels-tr-ng-nguy-n-thanh-2150411289-33397600.jpg."
+    },
+    {
+        "id": "39",
+        "file_path": [
+            "Daily Life/pexels-tr-ng-nguy-n-thanh-2150411289-33409067.jpg",
+            "Daily Life/pexels-tr-ng-nguy-n-thanh-2150411289-33409066.jpg",
+            "Daily Life/pexels-tr-ng-nguy-n-thanh-2150411289-33409064.jpg",
+            "Daily Life/pexels-tr-ng-nguy-n-thanh-2150411289-33409063.jpg"
+        ],
+        "question": "I’d like to make a vlog about my part-time job at a coffee shop. Could you locate all the photos of me working there?",
+        "answer": "I found a total of four photos. They are respectively stored in Daily Life/pexels-tr-ng-nguy-n-thanh-2150411289-33409067.jpg, Daily Life/pexels-tr-ng-nguy-n-thanh-2150411289-33409066.jpg, Daily Life/pexels-tr-ng-nguy-n-thanh-2150411289-33409064.jpg, Daily Life/pexels-tr-ng-nguy-n-thanh-2150411289-33409063.jpg"
+    },
+    {
+        "id": "40",
+        "file_path": [
+            "Daily Life/fun.jpeg"
+        ],
+        "question": "I've forgotten when I went hiking with my friends. Could you tell me the exact date?",
+        "answer": "Based on the photo I found: Daily Life/fun.jpeg, the exact date is August 27, 2025."
+    },
+    {
+        "id": "44",
+        "file_path": [
+            "Daily Life/cat3.jpeg",
+            "Daily Life/cat2.jpeg",
+            "Daily Life/cat1.jpeg"
+        ],
+        "question": "Please find all of my photos in which I appear together with the cats.",
+        "answer": "Group photos are saved at: Daily Life/cat3.jpeg, Daily Life/cat2.jpeg, Daily Life/cat1.jpeg"
+    },
+    {
+        "id": "45",
+        "file_path": [
+            "Cat-Vlog/images/pexels-david-bartus-43782-1510543.jpg"
+        ],
+        "question": "Could you help me locate a photo of a little black cat?",
+        "answer": "You can find the photo of the little black cat at: Cat-Vlog/images/pexels-david-bartus-43782-1510543.jpg."
+    },
+    {
+        "id": "46",
+        "file_path": [
+            "Life photo/pexels-tr-ng-nguy-n-thanh-2150411289-33577699.jpg",
+            "Life photo/pexels-tr-ng-nguy-n-thanh-2150411289-33577700.jpg",
+            "Life photo/pexels-tr-ng-nguy-n-thanh-2150411289-33577712.jpg",
+            "Life photo/pexels-tr-ng-nguy-n-thanh-2150411289-33577714.jpg"
+        ],
+        "question": "My only canvas bag printed with \"Chupa Chups\" is missing. Could you check if my bag shows up in any of my travel photos?",
+        "answer": "You did carry the aforementioned canvas bag during your trip in March 2022. You appeared with it in the following photos: Life photo/pexels-tr-ng-nguy-n-thanh-2150411289-33577699.jpg, Life photo/pexels-tr-ng-nguy-n-thanh-2150411289-33577700.jpg, Life photo/pexels-tr-ng-nguy-n-thanh-2150411289-33577712.jpg, Life photo/pexels-tr-ng-nguy-n-thanh-2150411289-33577714.jpg."
+    },
+    {
+        "id": "47",
+        "file_path": [
+            "Scenery/Leaning Tower of Pisa_1.jpeg",
+            "Scenery/Leaning Tower of Pisa_2.jpeg",
+            "Scenery/Leaning Tower of Pisa_3.jpeg",
+            "Scenery/Leaning Tower of Pisa_4.jpeg"
+        ],
+        "question": "Did I ever see the Leaning Tower of Pisa at night?",
+        "answer": "No, based on the photos I found: Scenery/Leaning Tower of Pisa_1.jpeg, Scenery/Leaning Tower of Pisa_2.jpeg, Scenery/Leaning Tower of Pisa_3.jpeg, Scenery/Leaning Tower of Pisa_4.jpeg, you did not see the Leaning Tower of Pisa at night."
+    },
+    {
+        "id": "49",
+        "file_path": [
+            "Film/Harry Potter and the Philosopher's Stone.mkv"
+        ],
+        "question": "My storage is nearly full. Could you identify the largest file in my system and provide its full name and exact size?",
+        "answer": "The full file name is Film/Harry Potter and the Philosopher's Stone.mkv, and the specific size is 8.53GB."
+    },
+    {
+        "id": "51",
+        "file_path": [
+            "Paper Reference/Unused_Paper/China's media and public diplomacy approach in Africa- illustrations from South Africa.pdf",
+            "Paper Reference/Unused_Paper/China's expanding influence in Africa.pdf",
+            "Paper Reference/Unused_Paper/China’s soft power projection  through the Chinese media-  assessing the implications of  Chinese media on Africans’  perception of China’s  national image.pdf"
+        ],
+        "question": "Please find every file with ‘diplomacy’, ‘influence’, or ‘soft power’ in the title, rename them with the prefix ‘[Diplomatic Research]-’, and show me the complete modified list.",
+        "answer": "[Diplomatic Research]-China's media and public diplomacy approach in Africa- illustrations from South Africa.pdf, [Diplomatic Research]-China's expanding influence in Africa.pdf, [Diplomatic Research]-China’s soft power projection  through the Chinese media-  assessing the implications of  Chinese media on Africans’  perception of China’s  national image.pdf"
+    },
+    {
+        "id": "52",
+        "file_path": [
+            "Daily Life/WechatIMG141.jpg"
+        ],
+        "question": "Please tell me the business hours of The Yunnan Corner.",
+        "answer": "The opening hours of The Yunnan Corner are from 5 p.m. to 10 p.m. from Monday to Saturday. The Yunnan Corner is closed on Sundays and public holidays."
+    },
+    {
+        "id": "53",
+        "file_path": [
+            "Daily Life/image003.png"
+        ],
+        "question": "What is the cost to attend the Theatre Jazz Dance Workshop?",
+        "answer": "The workshop is free of charge, but it requires a $100 deposit which is refundable if you have at least 80% attendance."
+    }
+]
